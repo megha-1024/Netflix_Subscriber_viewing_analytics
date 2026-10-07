@@ -1,0 +1,25 @@
+NETFLIX DATASET - KEY EDA INSIGHTS
+==================================================
+
+1. Overall churn rate: 17.2% (8,609 of 50,000 customers)
+
+2. Churn by plan: {'Basic': 25.2, 'Standard': 15.0, 'Premium': 7.6}
+
+3. Estimated total revenue (LTV proxy) by plan: {'Standard': 8771707.0, 'Premium': 8611077.0, 'Basic': 5898294.0}
+
+4. Top revenue country: USA ($2,379,482)
+
+5. Most active time of day: Evening (12,584 sessions)
+
+6. Churned vs Active behavior averages:
+            watch_time_minutes  session_count  completion_percentage  days_since_last_watch  avg_weekly_watch_time  rating
+is_churned                                                                                                                
+0                         87.1            2.4                   92.1                   29.9                  262.5     3.4
+1                         75.1            2.0                   91.0                   29.9                  226.9     3.4
+
+7. Churn rate - discount applied vs not: {'No': 17.3, 'Yes': 17.0}
+
+8. Churn rate by payment method: {'Card': 17.3, 'Bank Transfer': 17.2, 'Wallet': 17.1}
+
+9. Most-watched genre: Thriller (6,405.0 views, avg rating 3.40)
+
