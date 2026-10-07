@@ -105,7 +105,7 @@ These values update dynamically based on the selected filters.
 
 ## Project Structure
 
-```text
+
 netflix-subscriber-viewing-analytics/
 │
 ├── streamlit_app.py
@@ -119,7 +119,7 @@ netflix-subscriber-viewing-analytics/
 
 The project follows an end-to-end data analytics workflow:
 
-```text
+
 Raw Netflix Customer & Viewing Data
                 ↓
         Data Cleaning & Preparation
@@ -142,4 +142,29 @@ Raw Netflix Customer & Viewing Data
        Business Insights
                 ↓
       Filtered Data Export
+
+
+Live Demo:
+LinkedIn Link :
+
+<img width="695" height="233" alt="image" src="https://github.com/user-attachments/assets/1cb11cc4-6c3c-429d-85a8-28a97f9aaeb7" />
+
+
+<img width="870" height="494" alt="image" src="https://github.com/user-attachments/assets/a63469ea-99fc-4760-a91f-18792cec9e72" />
+
+<img width="644" height="124" alt="image" src="https://github.com/user-attachments/assets/b91f22d5-1926-4603-97e0-3e5880e3e4ea" />
+
+<img width="628" height="416" alt="image" src="https://github.com/user-attachments/assets/beddd2e6-00dd-4012-862d-fc25abf5524e" />
+
+<img width="662" height="389" alt="image" src="https://github.com/user-attachments/assets/5e2e5527-b14e-43ca-9a61-28da4d641b60" />
+
+<img width="668" height="407" alt="image" src="https://github.com/user-attachments/assets/a0eb1b2f-1d86-49b8-8ebf-8afeccb87ae8" />
+
+<img width="659" height="379" alt="image" src="https://github.com/user-attachments/assets/f5feff6f-e8e1-413f-a371-2a3cfb438cc3" />
+
+<img width="638" height="488" alt="image" src="https://github.com/user-attachments/assets/cc2a8090-ca8a-4ec2-9482-2d3abb6f0ad4" />
+
+
+
+
 
